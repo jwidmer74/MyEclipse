@@ -1,0 +1,13 @@
+2017-10-20 22:47:34,801 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2017-10-21 16:45:50,291 [Worker-11] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-21 22:54:08,377 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @22598289ms to org.eclipse.jetty.util.log.Slf4jLog
+2017-10-21 22:54:10,031 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.5.v20170502
+2017-10-21 22:54:10,185 [main] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2017-10-21 22:54:10,185 [main] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2017-10-21 22:54:10,192 [main] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2017-10-21 22:54:10,417 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@bb3df61{/wse,null,AVAILABLE}
+2017-10-21 22:54:10,600 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@f6d3389{HTTP/1.1,[http/1.1]}{0.0.0.0:63813}
+2017-10-21 22:54:10,601 [main] INFO  org.eclipse.jetty.server.Server - Started @22600517ms
+2017-10-21 22:55:39,766 [Framework stop] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@f6d3389{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+2017-10-21 22:55:39,772 [Framework stop] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2017-10-21 22:55:39,896 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@bb3df61{/wse,null,UNAVAILABLE}
